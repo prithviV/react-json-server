@@ -1,0 +1,19 @@
+{
+  "addAttributes": [
+    {
+      "id": "1",
+      "attrId": "attrRnd",
+      "value": "Task 2"
+    },
+    {
+      "id": "2",
+      "attrId": "attrType",
+      "value": "Task 2"
+    },
+    {
+      "id": "3",
+      "attrId": "attrRnd",
+      "value": "Task 2"
+    }    
+  ]
+}
